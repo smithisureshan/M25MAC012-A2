@@ -16,8 +16,7 @@ The repository includes both the implementation and the report explaining the re
 .
 ├── M25MAC012_A2_Prob1.ipynb   # Word2Vec training, analysis, PCA visualization
 ├── M25MAC012_prob2.py         # Character-level name generation models
-├── M25MAC012-A2_report.pdf    # Assignment report
-└── TrainingNames.txt          # Dataset required for Problem 2
+└── README.md
 ```
 
 ---
